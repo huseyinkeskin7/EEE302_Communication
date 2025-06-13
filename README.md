@@ -1,4 +1,4 @@
-# EEE302_Communication
+# DESIGN OF A FREQUENCY DIVISION MULTIPLEXING (FDM) SYSTEM
 # Türkçe
 Bu MATLAB kodu, frekans bölmeli çoklama (FDM) sistemini simüle eder. İki farklı mesaj sinyali (klasik müzik ve konuşma) sisteme alınır. Her sinyal, farklı taşıyıcı frekanslarla çarpılarak modüle edilir. Modüle edilen sinyaller birleştirilerek tek bir bileşik sinyal oluşturulur. Daha sonra, bu sinyalin frekans bileşenleri FFT kullanılarak analiz edilir. Son adımda ise, bant geçiren ve alçak geçiren filtreler ile orijinal sinyaller geri elde edilir. Bu sayede FDM sisteminin çalışma mantığı hem görsel hem işitsel olarak gözlemlenir.
 
